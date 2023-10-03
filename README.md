@@ -1,3 +1,9 @@
 # Market-website-refactor
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+This is a Horiseon Marketing Agency website
+
+The codebase has been refactored to follow a semantic structure. 
+
+![Read me screenshot](assets/images/readme.png)
+
+

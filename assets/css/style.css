@@ -59,7 +59,7 @@ a {
     background-position: center;
 }
 
-/* These are the styles for the content section images*/
+/* These are the styles for the Main content section images*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,7 +75,7 @@ a {
     max-height: 200px;
 }
 
-/* Styles for the content section and the paragraphs */
+/* Styles for the Main content section */
 p {
     font-size: 16px;
 }
