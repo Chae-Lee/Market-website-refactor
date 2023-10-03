@@ -1,9 +1,17 @@
 # Market-website-refactor
 
-This is a Horiseon Marketing Agency website
+<b> This is a Horiseon Marketing Agency website refactoring project </b>
 
-The codebase has been refactored to follow a semantic structure. 
+The HTML and CSS codebase has been refactored to follow a semantic structure. 
 
-![Read me screenshot](assets/images/readme.png)
+- Application links have been correctly linked. 
+- Application's CSS selectors and properties are consolidated and organised to follow semantic structure. 
+- Comments have been added to both HTML and CSS files. 
+
+
+<b>This is a screenshot of the deployed application </b>
+
+![Website screenshot](assets/images/readme.png)
+
 
 
